@@ -1,0 +1,11 @@
+.icons {
+  padding: 5px;
+}
+.files {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.fileIcon {
+  color: rgba(6, 6, 48, 0.365);
+}
